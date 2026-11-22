@@ -1,3 +1,0 @@
-# The site itself is written in TypeScript; its source is private.
-# This makes GitHub show that language for this repository.
-README.md linguist-detectable linguist-language=TypeScript
